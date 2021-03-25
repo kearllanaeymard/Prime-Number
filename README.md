@@ -1,6 +1,6 @@
 # Prime-Number
 
-![Instruction](instruction.png)
+![Instruction](instruction.PNG)
 
 ### Java
 ``` Java
